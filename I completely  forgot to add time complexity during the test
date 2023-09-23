@@ -1,0 +1,15 @@
+Mini-Max sum 
+
+the time complexity of for loops is O(n) but I used Collections.sort has a time complexity of O(n log n) which takes precedence over O(n).
+(https://www.geeksforgeeks.org/collections-sort-java-examples/)
+
+the space complexity is O(n), n is the number of integers
+
+
+
+Hackerrack in a string 
+
+the time complexity for my brute force solution is O(n) because of the for loop. the time complexity of my recursive attempt would also be O(n) because my bases cases
+will stop the loop after it iterates through the string
+
+the space complexity is O(n), n is the length of the string
